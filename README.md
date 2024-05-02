@@ -1,1 +1,1 @@
-只需要ethersjs库就可以运行该脚本 然后通过部署对应的solidity代码就可以实现功能
+create2 只需要ethersjs库就可以运行该脚本 然后通过部署对应的solidity代码就可以实现功能
